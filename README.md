@@ -32,12 +32,14 @@ Install the required libraries using:
    pip install numpy pillow matplotlib
 
 
-## Input Images
+## Example
 
-**Near Field Image:**
+To see the example images and their spliced result, please navigate to the [images folder](https://github.com/Nhale95/Fourier_Image_Merger/tree/main/images) in this repository.
 
-![Near Field Image](https://github.com/Nhale95/Fourier_Image_Merger/raw/main/images/wave.png)
+The filenames include:
+- `near_field_image.png`
+- `far_field_image.png`
+- `spliced_example.png`
 
-**Far Field Image:**
+You can view the images directly by clicking on the filenames in the `images` folder.
 
-![Far Field Image](https://github.com/Nhale95/Fourier_Image_Merger/raw/main/images/hay.png)
