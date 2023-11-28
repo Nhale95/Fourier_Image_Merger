@@ -37,9 +37,9 @@ Install the required libraries using:
 To see the example images and their spliced result, please navigate to the [images folder](https://github.com/Nhale95/Fourier_Image_Merger/tree/main/images) in this repository.
 
 The filenames include:
-- `near_field_image.png`
-- `far_field_image.png`
-- `spliced_example.png`
+the near field image - `wave.png`
+the far field image  - `hay.png`
+the merged image     - `spliced.png`
 
 You can view the images directly by clicking on the filenames in the `images` folder.
 
