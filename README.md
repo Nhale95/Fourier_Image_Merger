@@ -36,8 +36,8 @@ Install the required libraries using:
 
 **Near Field Image:**
 
-![Near Field Image](images/wave.png)
+![Near Field Image](https://github.com/Nhale95/Fourier_Image_Merger/raw/main/images/wave.png)
 
 **Far Field Image:**
 
-![Far Field Image](images/hay.png)
+![Far Field Image](https://github.com/Nhale95/Fourier_Image_Merger/raw/main/images/hay.png)
