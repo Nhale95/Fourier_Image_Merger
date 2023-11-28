@@ -30,3 +30,14 @@ To use this project
 Install the required libraries using:
    ```bash
    pip install numpy pillow matplotlib
+
+
+## Input Images
+
+**Near Field Image:**
+
+![Near Field Image](images/wave.png)
+
+**Far Field Image:**
+
+![Far Field Image](images/hay.png)
